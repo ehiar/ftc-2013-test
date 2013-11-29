@@ -29,5 +29,5 @@ task main()
     {
       motor[motorE]= 0;                    // Motor C is stopped with a power level of 0.
     }
-	}
+  }
 }
